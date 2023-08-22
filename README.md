@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xiaohuyz
-- 👀 I’m interested in digital IC design and verification
-- 🌱 I’m currently learning cpp and uvm
-- 📫 How to reach me xiaohuyz@163.com
+- 👀 I’m interested in PCI Express/CXL verification
+- 📫 How to reach me xiaohuworkwork@163.com
 
 <!---
 xiaohuyz/xiaohuyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
